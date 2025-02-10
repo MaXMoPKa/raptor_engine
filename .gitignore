@@ -23,7 +23,11 @@ CMakeCahce.txt*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+# Visual Studio
+.vs
+
 # build dirs
+_build*
 build*
 build_realese*
 bin
